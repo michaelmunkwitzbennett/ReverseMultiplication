@@ -1,0 +1,11 @@
+C:\Users\scawd\source\repos\ReverseMultiplication\bin\Debug\netcoreapp3.1\ReverseMultiplication.exe
+C:\Users\scawd\source\repos\ReverseMultiplication\bin\Debug\netcoreapp3.1\ReverseMultiplication.deps.json
+C:\Users\scawd\source\repos\ReverseMultiplication\bin\Debug\netcoreapp3.1\ReverseMultiplication.runtimeconfig.json
+C:\Users\scawd\source\repos\ReverseMultiplication\bin\Debug\netcoreapp3.1\ReverseMultiplication.runtimeconfig.dev.json
+C:\Users\scawd\source\repos\ReverseMultiplication\bin\Debug\netcoreapp3.1\ReverseMultiplication.dll
+C:\Users\scawd\source\repos\ReverseMultiplication\bin\Debug\netcoreapp3.1\ReverseMultiplication.pdb
+C:\Users\scawd\source\repos\ReverseMultiplication\obj\Debug\netcoreapp3.1\ReverseMultiplication.csprojAssemblyReference.cache
+C:\Users\scawd\source\repos\ReverseMultiplication\obj\Debug\netcoreapp3.1\ReverseMultiplication.AssemblyInfoInputs.cache
+C:\Users\scawd\source\repos\ReverseMultiplication\obj\Debug\netcoreapp3.1\ReverseMultiplication.AssemblyInfo.cs
+C:\Users\scawd\source\repos\ReverseMultiplication\obj\Debug\netcoreapp3.1\ReverseMultiplication.dll
+C:\Users\scawd\source\repos\ReverseMultiplication\obj\Debug\netcoreapp3.1\ReverseMultiplication.pdb
